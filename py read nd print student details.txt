@@ -1,0 +1,27 @@
+#program to generate student details
+sno=int(input('enter student number:'))
+name=input('enter student name:')
+gender=input('enter student gender:')
+group=input('enter group:')
+address=input('enter student address:')
+phno=int(input('enter student phno:'))
+print('sno:',sno)
+print('name:',name)
+print('gender:',gender)
+print('group:',group)
+print('address:',address)
+print('phno:',phno)
+
+OUTPUT:
+enter student number:1234
+enter student name:rasmitha
+enter student gender:female
+enter group:BCA
+enter student address:srikakulam
+enter student phno:8987656789
+sno: 1234
+name: rasmitha
+gender: female
+group: BCA
+address: srikakulam
+phno: 8987656789
